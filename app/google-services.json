@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "186068618117",
+    "firebase_url": "https://criminaldb-8632e.firebaseio.com",
+    "project_id": "criminaldb-8632e",
+    "storage_bucket": "criminaldb-8632e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186068618117:android:99cf982c2a9d9ffc",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.criminalfaceidentificationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186068618117-urikf7f5fqeujjakqpi5ugu17temtnr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ivUKRAYZ_QFvst4v_r0qP2JPhhjangU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

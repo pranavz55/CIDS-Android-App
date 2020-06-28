@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lenovo.criminalfaceidentificationsystem">
+
+    <application>
+        <activity android:name=".enquiryupload" />
+        <activity android:name=".missing" />
+        <activity android:name=".Missing" />
+        <activity android:name=".resetpassword" />
+        <activity android:name=".feedbackPage"></activity>
+    </application>
+
+</manifest>

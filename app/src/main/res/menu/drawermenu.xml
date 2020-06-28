@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home" android:title="Home" android:icon="@drawable/ic_homee"></item>
+    <item android:id="@+id/mostwanted" android:title="MostWanted" android:icon="@drawable/ic_wanted"></item>
+    <item android:id="@+id/addcriminal" android:title="Add Criminal" android:icon="@drawable/criminal"></item>
+    <item android:id="@+id/suspectedpolice" android:title="Suspected" android:icon="@drawable/ic_wanted"></item>
+    <item android:id="@+id/setting" android:title="Settings" android:icon="@drawable/ic_settingss"></item>
+    <item android:id="@+id/aboutus" android:title="About" android:icon="@drawable/aboutus"></item>
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_logout"></item>
+
+
+</menu>

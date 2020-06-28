@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/selectloc"
+        android:orderInCategory="100"
+        android:title="Select Location"
+
+        />
+    <item
+        android:id="@+id/s1"
+        android:orderInCategory="100"
+        android:title="Swargate"
+
+        />
+    <item
+        android:id="@+id/s2"
+        android:orderInCategory="100"
+        android:title="Katraj"
+
+        />
+    <item
+        android:id="@+id/s3"
+        android:orderInCategory="100"
+        android:title="Hadapsar"
+
+        />
+
+</menu>
